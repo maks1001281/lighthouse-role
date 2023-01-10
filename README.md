@@ -1,1 +1,1 @@
-### Данная Role устанавливает nginx, git, lighthouse
+### Данная Role устанавливает nginx, git, lighthouse.
